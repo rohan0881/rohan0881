@@ -53,6 +53,8 @@
 - [Microsoft Student Partners (Ambassadors) – Geek is the new rockstar](https://www.gautamkrishnar.com/microsoft-student-partners/)
 <!-- BLOG-POST-LIST:END -->
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohan0881)](https://github.com/anuraghazra/github-readme-stats)
+
 [twitter]: https://twitter.com/0881_rohan
 [instagram]: https://instagram.com/rohanp_0881
 [linkedin]: https://linkedin.com/in/rohan-pinge-701a551b4/
