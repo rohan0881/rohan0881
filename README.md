@@ -61,7 +61,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohan0881&show_icons=true)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohan0881&show_icons=true&theme=cobalt)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohan0881&show_icons=true&theme=onedark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohan0881)](https://github.com/rohan0881/github-readme-stats)
 
