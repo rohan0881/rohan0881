@@ -62,6 +62,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohan0881&show_icons=true)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohan0881&show_icons=true&theme=radical)
+
 [twitter]: https://twitter.com/0881_rohan
 [instagram]: https://instagram.com/rohanp_0881
 [linkedin]: https://linkedin.com/in/rohan-pinge-701a551b4/
