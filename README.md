@@ -65,6 +65,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohan0881)](https://github.com/rohan0881/github-readme-stats)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rohan0881)](https://github.com/rohan0881/github-readme-stats)
+
 
 [twitter]: https://twitter.com/0881_rohan
 [instagram]: https://instagram.com/rohanp_0881
