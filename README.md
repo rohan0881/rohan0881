@@ -41,6 +41,9 @@
 <br />
 <br />
 
+###Latest Blog Posts
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
+
 [twitter]: https://twitter.com/0881_rohan
 [instagram]: https://instagram.com/rohanp_0881
 [linkedin]: https://linkedin.com/in/rohan-pinge-701a551b4/
