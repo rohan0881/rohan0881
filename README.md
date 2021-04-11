@@ -8,7 +8,7 @@
 - 🌱 I’m undergoing 3D Game Development on Unity..
 - 👯 I’m looking to collaborate with other content creators..
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: An enthusiastic reader and a contributor who loves to the Quora Community.. 
+- ⚡ Fun fact: An enthusiastic reader and a contributor who loves to contribute to the Quora Community.. 
 
 ### Spotify Playing 🎧
 
