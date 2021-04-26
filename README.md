@@ -3,6 +3,7 @@
 ## Currently a CS Student at Jain College Of Engineering, Belgaum ...
 ## Ex-Intern as a Full Stack Web Developer at Tequed Labs Pvt. Ltd ..
 ## Intern as a Junior C# Developer at Excel Infotech, Mumbai..
+## Worked as a Java Developer at Excel Infotech, Mumbai..
 
 - 🔭 I am currently working on Android Application Development..
 - 🌱 I’m undergoing 3D Game Development on Unity..
