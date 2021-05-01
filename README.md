@@ -44,11 +44,11 @@
 
 ### 🚀 Latest You Tube Videos 
 <!-- YOUTUBE:START -->
+- [CSS Nesting Is Coming Soon! 🤯 How To Nest Selector Styles TODAY!! (2021)](https://www.youtube.com/watch?v=V7Xinz27XQA)
 - [Vite 2.0 Crash Course | Super Fast Build Tool for JavaScript, React, Vue, Svelte, & Lit (2021)](https://www.youtube.com/watch?v=LQQ3CR2JTX8)
 - [Edit Images in VS Code!?! | Luna Paint Extension](https://www.youtube.com/watch?v=I_6bZQZheC0)
 - [Web Development Tutorial (JavaScript, HTML, CSS) Rock Paper Scissors Game](https://www.youtube.com/watch?v=P_H4_miTKsI)
 - [Top VS Code Updates | v1.55 Released!! | Tips & Tricks 2021 (Visual Studio Code)](https://www.youtube.com/watch?v=rXPmjkaTA9A)
-- [I QUIT My Job as an Engineer...](https://www.youtube.com/watch?v=wskcgc2AeV8)
 <!-- YOUTUBE:END -->
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
