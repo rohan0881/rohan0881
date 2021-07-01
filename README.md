@@ -44,11 +44,11 @@
 
 ### 🚀 Latest You Tube Videos 
 <!-- YOUTUBE:START -->
+- [Another AI Programming Tool | First Look at GitHub Copilot in VS Code](https://www.youtube.com/watch?v=calK4DpJV8A)
 - [The Secret Blog Writing Formula That Actually Works](https://www.youtube.com/watch?v=-7ztydZcSgY)
 - [How To Blog #shorts](https://www.youtube.com/watch?v=CGcv1wuwNG0)
 - [Keyword Research #shorts](https://www.youtube.com/watch?v=5X3NjLoqUgQ)
 - [Catchy Blog Titles #shorts](https://www.youtube.com/watch?v=gLwPcnaqSMc)
-- [Top VS Code Updates | v1.57 Released!! | Tips & Tricks 2021 (Visual Studio Code)](https://www.youtube.com/watch?v=R6AgcZ9oJ4k)
 <!-- YOUTUBE:END -->
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
