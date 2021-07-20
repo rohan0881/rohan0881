@@ -44,11 +44,11 @@
 
 ### 🚀 Latest You Tube Videos 
 <!-- YOUTUBE:START -->
+- [MongoDB 5.0, Build a Flutter Game, FARM Stack ?🤯 // STACKr News Weekly - Issue 3](https://www.youtube.com/watch?v=UyO3r3_rECw)
 - [React 18 & TypeScript | How to Enable TypeScript in React 18](https://www.youtube.com/watch?v=bA5pZnEE0yA)
 - [7 HOUR React Course, Quantum Computing, and Top CSS Frameworks 🤯 // STACKr News Weekly - Issue 2](https://www.youtube.com/watch?v=z8RAL5f-SF0)
 - [Top VS Code Updates | v1.58 Released!! | Tips & Tricks 2021 (Visual Studio Code)](https://www.youtube.com/watch?v=lWC3bSuADRw)
 - [AI Copilots, Dinosaurs, and AWS 🤯 // STACKr News Weekly - Issue 1](https://www.youtube.com/watch?v=7kmb7-tFuXM)
-- [First Look at GitHub Copilot in VS Code | Just Another AI Programming Tool?](https://www.youtube.com/watch?v=calK4DpJV8A)
 <!-- YOUTUBE:END -->
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
