@@ -44,11 +44,11 @@
 
 ### 🚀 Latest You Tube Videos 
 <!-- YOUTUBE:START -->
+- [STACKr News Shorts - Issue 3 - How to Prepare for a Coding Bootcamp](https://www.youtube.com/watch?v=dBXbNgaM1Z4)
 - [STACKr News Shorts - Issue 3 - How I plan out my day as a Software Developer](https://www.youtube.com/watch?v=JbYSNA5MqM0)
 - [STACKr News Shorts - Issue 3 - You're Doing React Hooks Wrong, Probably](https://www.youtube.com/watch?v=pV_-EwSe6j8)
 - [STACKr News Shorts - Issue 3 - An Introduction To Handling Exceptions In Python](https://www.youtube.com/watch?v=XxglWHo9oMw)
 - [STACKr News Shorts - Issue 3 - I Made a Game in Flutter](https://www.youtube.com/watch?v=JbO8Vfc49mQ)
-- [STACKr News Shorts - Issue 3 - Top News](https://www.youtube.com/watch?v=p91I2NebuRY)
 <!-- YOUTUBE:END -->
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
