@@ -44,11 +44,11 @@
 
 ### 🚀 Latest You Tube Videos 
 <!-- YOUTUBE:START -->
+- [Auth0 Rap Video 🤯, Build A Portfolio, and Giving Away Money 💸 // STACKr News Weekly - Issue 4](https://www.youtube.com/watch?v=5b9KZRPOwP0)
 - [STACKr News Shorts - Issue 3 - MongoDB .live Event Recordings](https://www.youtube.com/watch?v=mogH5SfyzLQ)
 - [STACKr News Shorts - Issue 3 - Useful Beginner Level JavaScript Code Snippets](https://www.youtube.com/watch?v=t57IZ0lP0mY)
 - [STACKr News Shorts - Issue 3 - Perf as a Job, Frontend Being Consumed, and How Much to Bill Clients](https://www.youtube.com/watch?v=STtPjRrF9s0)
 - [STACKr News Shorts - Issue 3 - Web Dev Highlights](https://www.youtube.com/watch?v=MnqIcetrBTI)
-- [STACKr News Shorts - Issue 3 - Kubernetes Backup and Restore made easy!](https://www.youtube.com/watch?v=M9M0mVWAft8)
 <!-- YOUTUBE:END -->
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
