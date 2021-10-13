@@ -6,9 +6,6 @@
 🥅 Responsible for Designing, Creating, and Implementing Database Systems based on the Client's requirements.
 ⚡ Maintaining Source Code sets and necessary technical documentation, as well as Develop, design, Test and Implement Complex Database Programs using Oracle Tools.
 
-- 🔭 I am currently working on Android Application Development..
-- 🌱 I’m undergoing 3D Game Development on Unity..
-- 👯 I’m looking to collaborate with other content creators..
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: An enthusiastic reader and a contributor who loves to contribute to the Quora Community.. 
 
