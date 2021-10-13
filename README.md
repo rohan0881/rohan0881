@@ -1,9 +1,10 @@
 ### Hi there, I'm Rohan -👋
 
-## Currently a CS Student at Jain College Of Engineering, Belgaum ...
-## Ex-Intern as a Full Stack Web Developer at Tequed Labs Pvt. Ltd ..
-## Intern as a Junior C# Developer at Excel Infotech, Mumbai..
-## Worked as a Java Developer at Excel Infotech, Mumbai..
+🔭 Working as an Oracle SQL/PLSQL Developer in Oracle at Deloitte India (Offices of the US).. 
+🌱 Responsible for crafting, developing and deploying software in PL/SQL Scripts along with Cloud Solutions amongst functional Oracle Team located On and Off Shore.         
+👯 Designing databases and ensuring their stability, reliability, and performance.
+🥅 Responsible for Designing, Creating, and Implementing Database Systems based on the Client's requirements.
+⚡ Maintaining Source Code sets and necessary technical documentation, as well as Develop, design, Test and Implement Complex Database Programs using Oracle Tools.
 
 - 🔭 I am currently working on Android Application Development..
 - 🌱 I’m undergoing 3D Game Development on Unity..
