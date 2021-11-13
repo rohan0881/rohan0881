@@ -59,9 +59,9 @@
 - [Skipping the Chrome &quot;Your connection is not private&quot; warning](https://dev.to/gautamkrishnar/quickbits-1-skipping-the-chrome-your-connection-is-not-private-warning-4kp1)
 <!-- BLOG-POST-LIST:END -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohan0881&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohan0881&show_icons=true&theme=calm)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohan0881&show_icons=true&theme=onedark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohan0881&show_icons=true&theme=shades-of-purple)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohan0881)](https://github.com/rohan0881/github-readme-stats)
 
