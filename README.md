@@ -1,7 +1,10 @@
 ### Hi there, I'm Rohan -👋
 
 🔭 Working as an Oracle SQL/PLSQL Developer in Oracle at Deloitte India (Offices of the US).
-🌱 Responsible for Crafting, Developing and Deploying software.  
+🌱 Responsible for Developing, Crafting and Deploying Databases in SQL/PLSQL Scripts along with Cloud Solutions.
+👯 I’m looking to collaborate on Android apps and conference events
+📫 How to reach me: sabiha.shaik121@gmail.com
+⚡ Fun fact: I'm a Gold Microsoft Learn Student Ambassador. Love spreading knowledge and teaching others! I also believe accessibility should always be built in and not bolted in!
 
 
 - 🥅 2021 Goals: Contribute more to Open Source projects
