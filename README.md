@@ -1,6 +1,6 @@
 ### Hi there, I'm Rohan -👋
 
-🔭 Working as an Oracle SQL/PLSQL Developer in Oracle at Deloitte India (Offices of the US).. 
+🔭 Working as an Oracle SQL/PLSQL Developer in Oracle at Deloitte India (Offices of the US).
 🌱 Responsible for Crafting, Developing and Deploying software in PL/SQL Scripts along with Cloud Solutions.      
 
 
