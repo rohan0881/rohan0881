@@ -1,10 +1,7 @@
 ### Hi there, I'm Rohan -👋
 
 🔭 Working as an Oracle SQL/PLSQL Developer in Oracle at Deloitte India (Offices of the US).. 
-🌱 Responsible for crafting, developing and deploying software in PL/SQL Scripts along with Cloud Solutions amongst functional Oracle Team located On and Off Shore.         
-👯 Designing databases and ensuring their stability, reliability, and performance.
-🥅 Responsible for Designing, Creating, and Implementing Database Systems based on the Client's requirements.
-⚡ Maintaining Source Code sets and necessary technical documentation, as well as Develop, design, Test and Implement Complex Database Programs using Oracle Tools.
+
 
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: An enthusiastic reader and a contributor who loves to contribute to the Quora Community.. 
