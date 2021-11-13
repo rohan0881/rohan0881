@@ -40,6 +40,8 @@
 <br />
 <br />
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rohan0881&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 ### 🚀 Latest You Tube Videos 
 <!-- YOUTUBE:START -->
 - [STACKr News Weekly: Learn to code FAST ⚡, Choose a DB in 9.49 min ⌛, BEST Blog app with React ⚛](https://www.youtube.com/watch?v=KZGzo0bkiLY)
@@ -57,16 +59,11 @@
 - [Skipping the Chrome &quot;Your connection is not private&quot; warning](https://dev.to/gautamkrishnar/quickbits-1-skipping-the-chrome-your-connection-is-not-private-warning-4kp1)
 <!-- BLOG-POST-LIST:END -->
 
-
-
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohan0881&show_icons=true)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohan0881&show_icons=true&theme=onedark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohan0881)](https://github.com/rohan0881/github-readme-stats)
-
-   
 
 [twitter]: https://twitter.com/0881_rohan
 [instagram]: https://instagram.com/rohanp_0881
