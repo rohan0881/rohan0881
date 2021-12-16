@@ -87,9 +87,9 @@
 <!-- YOUTUBE:START -->
 - [STACKr News Weekly: Inspiring Dev Stories 🚀, Create 10k NFT Collection without Web3 Knowledge! 🤯](https://www.youtube.com/watch?v=z2vpcQjpqno)
 - [Top VS Code Updates | v1.63 Released!! | Tips &amp; Tricks 2021 &lpar;Visual Studio Code&rpar;](https://www.youtube.com/watch?v=q4F9OSon2n0)
-- [CodeCats 10k NFT Collection: The Plan &lpar;I need your help!&rpar;](https://www.youtube.com/watch?v=Ki5e9pkjnho)
 - [ZERO Gas Purchases on OpenSea!! How to buy NFTs on Polygon](https://www.youtube.com/watch?v=peJ9zgNhyh0)
 - [How To Create An ENTIRE NFT Collection &lpar;10,000+&rpar; &amp; MINT In Under 1 Hour Without Coding Knowledge](https://www.youtube.com/watch?v=AaCgydeMu64)
+- [STACKr News Weekly: Developer Trends 2022 🔥, Studio Tour 📷, 5 Steps to become a Programmer 5️⃣](https://www.youtube.com/watch?v=Pqa55L8Yjvw)
 <!-- YOUTUBE:END -->
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
