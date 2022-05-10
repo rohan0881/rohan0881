@@ -1,11 +1,11 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Rohan Manish Pinge </h1>
-<h3 align="center">Software Engineer at Deloitte USI | Trainee Oracle SQL/PLSQL Developer | Intern Analyst at Deloitte India(Offices of The US) </h3>
+<h3 align="center">DC Software Engineer at Deloitte USI - World's Largest Accounting Firm | Intern Analyst at Deloitte India (Offices of The US) </h3>
 
 <p align="center">
   <em>
     Hello, I am Rohan Pinge a <b>final year</b> graduate from <a href="https://uom.lk/"> <b>Jain College of Engineering</b>, Belgaum</a>. <br>
-    <b>I am a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Software  Engineer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<b>at Deloitte India working</b>
-    in <b></b> Oracle SQL/PLSQL Scripts along with Functional Cloud Solutions located On-Shore and Off-Shore.
+    <b>I am a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Software  Engineer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<b>at Deloitte USI. </b>
+    as <b></b> An enthusiast in Mobile Application Development. Passionate about Writing Codes along with a cup of coffee.
   </em> 
   <br>
   <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "While {(There's a Code - There's a Bug!)}”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
@@ -15,8 +15,8 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
  ✔"***A Software Engineer Working at Deloitte India (Offices of The US)"***😊 <br>
-🌱*I’m currently involved in Crafting, Developing SQL/PLSQL Scripts with Functional Oracle Teams.*<br>
-🥅*Responsible for Designing & Implementing Database Systems based on Client Requirements*<br>
+🌱*Currently Learning iOS Development and following my Dreams *<br>
+🥅*Working as a Technical Designer in UNIX Shell Script and working on XREF Mapping Documents as well as implementing Technical Code Sets.*<br>
 ⚡*Maintaining Source Code sets as well as **Develop, Design & Test Complex Database Programs*<br>
 👯 *Ask me anything you want, I'll try to answer most of them.😉*<br>
 ✔ Fun fact : I Always try to learn something new and then sleep till it get's stored in the brain***😎<br>
