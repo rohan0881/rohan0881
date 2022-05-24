@@ -5,7 +5,7 @@
   <em>
     Hello, I am Rohan Pinge a <b>final year</b> graduate from <a href="https://uom.lk/"> <b>Jain College of Engineering</b>, Belgaum</a>. <br>
     <b>I am a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Software  Engineer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<b>at Deloitte USI. </b>
-    as <b></b> An enthusiast in Mobile Application Development. Passionate about Writing Codes along with a cup of coffee.
+    <b></b> An enthusiast in Mobile Application Development. Passionate about Writing Codes along with a cup of coffee.
   </em> 
   <br>
   <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "While {(There's a Code - There's a Bug!)}”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
