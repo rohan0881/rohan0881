@@ -85,11 +85,11 @@
 
 ### 🚀 Latest You Tube Videos 
 <!-- YOUTUBE:START -->
+- [Learning to Code is NOT Hard!!](https://www.youtube.com/watch?v=5jzIjU7Ed9o)
 - [12 ways to center a div](https://www.youtube.com/watch?v=WM02RIeE1Fs)
 - [How to center a div 12 ways!!](https://www.youtube.com/watch?v=kphds-1V9o8)
 - [JavaScript Variables](https://www.youtube.com/watch?v=oXegXhqGQ30)
 - [What is JavaScript? Click to watch more 👇](https://www.youtube.com/watch?v=asyHJSlYwX0)
-- [Free Up Disk Space NOW!! No More node_modules Folders Taking Up Space!!](https://www.youtube.com/watch?v=OuuO6EM7DL0)
 <!-- YOUTUBE:END -->
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
