@@ -85,11 +85,11 @@
 
 ### 🚀 Latest You Tube Videos 
 <!-- YOUTUBE:START -->
+- [Go from Visual Studio Code Noob to Pro! Become a VS Code SuperHero Today!](https://www.youtube.com/watch?v=4d_tbl3KqMM)
 - [VS Code: Organize Imports](https://www.youtube.com/watch?v=o3FskZW1n2U)
 - [Coinbase Hacked! $16,308 Stolen - Don’t let this happen to you!!](https://www.youtube.com/watch?v=1GJkuRa1PjM)
 - [Learning to Code is NOT Hard!!](https://www.youtube.com/watch?v=5jzIjU7Ed9o)
 - [12 ways to center a div](https://www.youtube.com/watch?v=WM02RIeE1Fs)
-- [How to center a div 12 ways!!](https://www.youtube.com/watch?v=kphds-1V9o8)
 <!-- YOUTUBE:END -->
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
