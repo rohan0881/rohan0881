@@ -85,11 +85,11 @@
 
 ### 🚀 Latest You Tube Videos 
 <!-- YOUTUBE:START -->
+- [VS Code: Balance In &amp; Out](https://www.youtube.com/watch?v=9GCpUR9X6uc)
 - [VS Code Extension: Template String Converter](https://www.youtube.com/watch?v=o-OecCnitL0)
 - [What is ChatGPT? Can it Help You? It built a To-Do App.. Sorta 🤔](https://www.youtube.com/watch?v=Gz0qvqBoA4I)
 - [VS Code: Put your Sidebar on the Right &lpar;correct&rpar; Side 😅](https://www.youtube.com/watch?v=xCn6ifDmlk8)
 - [Become a VS Code SuperHero Today - Trailer 2.0](https://www.youtube.com/watch?v=STZgSUtu004)
-- [Go from Visual Studio Code Noob to Pro! Become a VS Code SuperHero Today!](https://www.youtube.com/watch?v=4d_tbl3KqMM)
 <!-- YOUTUBE:END -->
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
