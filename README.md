@@ -85,11 +85,11 @@
 
 ### 🚀 Latest You Tube Videos 
 <!-- YOUTUBE:START -->
-- [FREE Link-in-Bio Generator that Twitter Cannot Ban](https://www.youtube.com/watch?v=bR2tbXuzjcM)
+- [Maximize Your Online Presence using this Link-in-Bio Generator that Twitter Cannot Ban](https://www.youtube.com/watch?v=bR2tbXuzjcM)
 - [Best VS Code Extension for REST API - No More Postman](https://www.youtube.com/watch?v=e0bw0G19oFc)
 - [VS Code: How to Select Huge Divs Easily!](https://www.youtube.com/watch?v=9GCpUR9X6uc)
 - [This VS Code Extension is the BEST 🔥🔥](https://www.youtube.com/watch?v=o-OecCnitL0)
-- [Using ChatGPT-3 to Build a To-Do App.. Sorta 🤔 What is possible with ChatGPT?](https://www.youtube.com/watch?v=Gz0qvqBoA4I)
+- [The Pitfalls of Using ChatGPT-3: A Cautionary Tale of Building a To-Do App](https://www.youtube.com/watch?v=Gz0qvqBoA4I)
 <!-- YOUTUBE:END -->
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
