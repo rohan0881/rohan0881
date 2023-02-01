@@ -85,11 +85,11 @@
 
 ### 🚀 Latest You Tube Videos 
 <!-- YOUTUBE:START -->
+- [🔥 Extension! Easily Identify Multiple VS Code Windows](https://www.youtube.com/watch?v=DJbLil03_vs)
 - [🔥 Best VS Code Feature! Never Lose Your Place!](https://www.youtube.com/watch?v=NsfQaqAvKvo)
 - [Top 10 VS Code Themes 2023](https://www.youtube.com/watch?v=uIudZvpYIaM)
 - [Pro Tip 🔥 Code from Any Device with Remote Tunnels in VS Code](https://www.youtube.com/watch?v=LT-UybUdOKY)
 - [🔥 Best VS Code Extension to Keep Track of Tasks](https://www.youtube.com/watch?v=KLp9Jsdmf5g)
-- [Best VS Code Time Saver!! 🔥🔥](https://www.youtube.com/watch?v=z23VL9cvMts)
 <!-- YOUTUBE:END -->
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
