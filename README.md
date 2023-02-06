@@ -85,11 +85,11 @@
 
 ### 🚀 Latest You Tube Videos 
 <!-- YOUTUBE:START -->
+- [🛑 STOP Renaming Things in VS Code This Way!](https://www.youtube.com/watch?v=83Bk97PqaW4)
 - [Pimp my Cursor - VS Code Style](https://www.youtube.com/watch?v=5oUUDvwiI-o)
 - [🔥 Extension! Easily Identify Multiple VS Code Windows](https://www.youtube.com/watch?v=DJbLil03_vs)
 - [🔥 Best VS Code Feature! Never Lose Your Place!](https://www.youtube.com/watch?v=NsfQaqAvKvo)
 - [Top 10 VS Code Themes 2023](https://www.youtube.com/watch?v=uIudZvpYIaM)
-- [Pro Tip 🔥 Code from Any Device with Remote Tunnels in VS Code](https://www.youtube.com/watch?v=LT-UybUdOKY)
 <!-- YOUTUBE:END -->
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
