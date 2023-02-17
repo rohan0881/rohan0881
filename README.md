@@ -85,11 +85,11 @@
 
 ### 🚀 Latest You Tube Videos 
 <!-- YOUTUBE:START -->
+- [Pimp my Font - VS Code Style](https://www.youtube.com/watch?v=3S6Fot3oQ1g)
 - [🔥 Best Shortcut You Didn’t Know!!](https://www.youtube.com/watch?v=oSLDZGUQN2A)
 - [Top 10 VS Code Keyboard Shortcuts You Must Learn to Use!](https://www.youtube.com/watch?v=rwc0Pr8ANpQ)
 - [Pro Tip 🔥 Multiple Terminal Management in VS Code](https://www.youtube.com/watch?v=i90sURfAXYw)
 - [Best CSS Tool for VS Code!! 🪞 Mirror Editing](https://www.youtube.com/watch?v=ELVkK-N3kBs)
-- [The FASTEST Way to Learn to Code &amp; Become a Successful Web Developer](https://www.youtube.com/watch?v=LIxBJ_jw9tE)
 <!-- YOUTUBE:END -->
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
