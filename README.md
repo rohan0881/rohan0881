@@ -85,11 +85,11 @@
 
 ### 🚀 Latest You Tube Videos 
 <!-- YOUTUBE:START -->
+- [🔥 Best VS Code Feature! Never Lose Your Code!](https://www.youtube.com/watch?v=MwssRihPgJg)
 - [Open VS Code from Windows 11 New Right-Click Context Menu](https://www.youtube.com/watch?v=yzsb_il7aPw)
 - [🔥 VS Code: Edit Like A Pro](https://www.youtube.com/watch?v=2oXXk9aHKAk)
 - [🔥 VS Code Database Management Extension](https://www.youtube.com/watch?v=Gz8TBhcf3dk)
 - [Open VS Code from Finder in macOS](https://www.youtube.com/watch?v=UY_WJBlQKj0)
-- [Pimp my Font - VS Code Style](https://www.youtube.com/watch?v=3S6Fot3oQ1g)
 <!-- YOUTUBE:END -->
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
