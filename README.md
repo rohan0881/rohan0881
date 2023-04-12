@@ -85,11 +85,11 @@
 
 ### 🚀 Latest You Tube Videos 
 <!-- YOUTUBE:START -->
+- [🛑 Stop Creating Folder Structures the Hard Way in VS Code!](https://www.youtube.com/watch?v=_XbEX5kuATY)
 - [Custom Icons in VS Code](https://www.youtube.com/watch?v=srGCblsKmDs)
 - [Keep Your Packages Up-To-Date with this VS Code Extension](https://www.youtube.com/watch?v=FIHFLGEPolg)
 - [Fireship in 100 Seconds](https://www.youtube.com/watch?v=cYoY_WbqNSw)
 - [Never Go To Settings Again in VS Code!!](https://www.youtube.com/watch?v=q_oExJyObUw)
-- [🔥 Best VS Code Extension for Writers &amp; Speakers](https://www.youtube.com/watch?v=2R20LH1uG2E)
 <!-- YOUTUBE:END -->
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
