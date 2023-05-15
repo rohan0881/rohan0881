@@ -85,11 +85,11 @@
 
 ### 🚀 Latest You Tube Videos 
 <!-- YOUTUBE:START -->
+- [TypeScript vs JSDoc: A Shift in the Development Landscape](https://www.youtube.com/watch?v=JTYhDiJiiFI)
 - [The Future of JavaScript &amp; AI in Tech - Evan You at VueJSLive](https://www.youtube.com/watch?v=TwjUuivIrPI)
 - [Don&#39;t Miss VueJS Live - Register Now!](https://www.youtube.com/watch?v=zTCpVNRMpEw)
 - [🛑 Stop Creating Folder Structures the Hard Way in VS Code!](https://www.youtube.com/watch?v=_XbEX5kuATY)
 - [Custom Icons in VS Code](https://www.youtube.com/watch?v=srGCblsKmDs)
-- [Keep Your Packages Up-To-Date with this VS Code Extension](https://www.youtube.com/watch?v=FIHFLGEPolg)
 <!-- YOUTUBE:END -->
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
